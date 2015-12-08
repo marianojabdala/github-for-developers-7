@@ -4,3 +4,4 @@
      - [ ] Japan
      - [ ] Rise
      - [ ] Soccer
+     - **Favorite Color :** Red
